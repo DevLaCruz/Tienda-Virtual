@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Tienda-Online-JSP-main/Tienda-Online-JSP-main/web/Carrito.jsp</file>
+            <file>file:/D:/Tienda-Online-JSP-main/Tienda-Online-JSP-main/web/AreaCategoria.jsp</file>
+            <file>file:/D:/Tienda-Online-JSP-main/Tienda-Online-JSP-main/src/java/modelo/beans/DetallePedido.java</file>
+            <file>file:/D:/Tienda-Online-JSP-main/Tienda-Online-JSP-main/src/java/modelo/beans/Pedido.java</file>
+            <file>file:/D:/Tienda-Online-JSP-main/Tienda-Online-JSP-main/web/Compras.jsp</file>
+            <file>file:/D:/Tienda-Online-JSP-main/Tienda-Online-JSP-main/src/java/modelo/beans/Categoria.java</file>
+            <file>file:/D:/Tienda-Online-JSP-main/Tienda-Online-JSP-main/web/Untitled-6.html</file>
+            <file>file:/D:/Tienda-Online-JSP-main/Tienda-Online-JSP-main/src/java/modelo/beans/TemporadaPuntos.java</file>
+            <file>file:/D:/Tienda-Online-JSP-main/Tienda-Online-JSP-main/web/VistaAdministrador.jsp</file>
+            <file>file:/D:/Tienda-Online-JSP-main/Tienda-Online-JSP-main/web/DetalleProducto.jsp</file>
+            <file>file:/D:/Tienda-Online-JSP-main/Tienda-Online-JSP-main/src/java/modelo/dao/CategoriaDao.java</file>
+            <file>file:/D:/Tienda-Online-JSP-main/Tienda-Online-JSP-main/web/AreaLogin.jsp</file>
+            <file>file:/D:/Tienda-Online-JSP-main/Tienda-Online-JSP-main/src/java/modelo/beans/Producto.java</file>
+            <file>file:/D:/Tienda-Online-JSP-main/Tienda-Online-JSP-main/src/java/modelo/beans/Usuario.java</file>
+            <file>file:/D:/Tienda-Online-JSP-main/Tienda-Online-JSP-main/web/css/main.css</file>
+            <file>file:/D:/Tienda-Online-JSP-main/Tienda-Online-JSP-main/web/AreaProducto.jsp</file>
+            <file>file:/D:/Tienda-Online-JSP-main/Tienda-Online-JSP-main/src/java/modelo/beans/Puntos.java</file>
+            <file>file:/D:/Tienda-Online-JSP-main/Tienda-Online-JSP-main/web/index.jsp</file>
+            <file>file:/D:/Tienda-Online-JSP-main/Tienda-Online-JSP-main/src/java/datos/Conexion.java</file>
+            <file>file:/D:/Tienda-Online-JSP-main/Tienda-Online-JSP-main/web/AreaModificar.jsp</file>
+            <file>file:/D:/Tienda-Online-JSP-main/Tienda-Online-JSP-main/src/java/controlador/Controlador.java</file>
+            <file>file:/D:/Tienda-Online-JSP-main/Tienda-Online-JSP-main/web/AreaPedido.jsp</file>
+        </group>
+    </open-files>
+</project-private>
