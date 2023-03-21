@@ -1,0 +1,5 @@
+# Tienda Virtual
+Sitio Web hecho con Java Servlets Pages, MySQL, Ajax, HTML, CSS y Javascript que incluye dos roles, el de Administrador que viene a ser el Vendedor(Dueño del negocio), y el de Usuario(Consumidor), éste software permite simular el comportamiento de un pequeño ecommerce dedicado a venta de dispositivos tecnológicos, a excepción de la tranferencia de dinero, pues dicha funcionalidad se realiza mediante una comunicación de WhatsApp entre el cliente y el vendedor.
+Si se accede como administrador, se tendrá un CMS donde se tendrá el control total de lo se quiere se quiere mostrar en la vista principal.
+Éste proyecto se debe ejecutar idealmente desde el IDE NetBeans de modo que al momento de abrirlo desde ahí le pedirá las librerias corregir unos errores, aue se solucionarán importando las librerías que aparecen en la carpeta con el mismo nombre en este proyecto, además la base se datos se debe abrir mediante el Gestor de Base de Datos MySQL Workbench
+No olvidar configurar la conexión a la base de datos 
